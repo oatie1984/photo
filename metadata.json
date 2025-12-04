@@ -1,0 +1,7 @@
+{
+  "name": "ENIE AI Christmas Photo Booth",
+  "description": "An AI-powered photo booth that transforms your pictures into festive, themed masterpieces. Choose a theme, upload a photo, and let Gemini AI create a unique Christmas image for you to download.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
